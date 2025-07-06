@@ -21,3 +21,10 @@ cd Netzet-Task-Fametonic
 # Install dependencies
 yarn install
 ```
+
+## ▶️ Running Locally
+
+```bash
+# Run this command
+yarn dev
+```
