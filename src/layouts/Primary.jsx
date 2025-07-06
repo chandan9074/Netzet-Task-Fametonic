@@ -3,7 +3,7 @@ import React from "react";
 
 const Primary = ({ children }) => {
     return (
-        <div className="bg-black">
+        <div className="bg-black h-full relative">
             <Navbar.PromotionBar />
             <Navbar.Primary />
             {children}

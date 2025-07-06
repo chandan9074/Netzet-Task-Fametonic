@@ -4,6 +4,22 @@
     --color-primary: #fc004e;
     --color-secondary: #10cbe0;
     --color-black: #010101;
+    --color-medium-gray: #a9a9a9;
+    --color-medium-gray-2: #ababab;
 
     --text-xxl: 22px;
+    --text-shadow-primary: 0 4px 4px #fc004e;
+    --drop-shadow-secondary: 2px 4px 8px #10cbe0;
+
+    --breakpoint-sm: 510px;
+    --breakpoint-md: 610px;
+    --breakpoint-lg: 815px;
+    --breakpoint-xl: 1030px;
+    --breakpoint-2xl: 1480px;
+
+    --font-heading: "Urbanist", "sans-serif";
+}
+
+body {
+    font-family: var(--font-figtree), sans-serif;
 }
